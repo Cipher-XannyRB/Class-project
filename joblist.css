@@ -56,7 +56,7 @@ header {
 .search-bar button {
     padding: 10px 15px;
     border: none;
-    background-color: #007bff;
+    background-color: rgb(115, 65, 114);
     color: white;
     border-radius: 5px;
     cursor: pointer;

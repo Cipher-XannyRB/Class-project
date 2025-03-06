@@ -1,5 +1,9 @@
 body{
     background-color: rgba(0, 0, 0, 0.869);
+    background-image: url('/css/images/FKN\ WERK.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .section-1{

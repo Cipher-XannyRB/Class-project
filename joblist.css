@@ -20,6 +20,12 @@ header {
     background-color: rgb(115, 65, 114);
     }
 
+    a{
+        font-size: x-large;
+        margin: 20px;
+        text-align: center;
+        }
+
     .header-main{
         margin: 5px;
         display: flex;

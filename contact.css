@@ -37,12 +37,12 @@ header {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #10006978;
+    background-color: rgb(115, 65, 114);
     text-align: center;
     }
     
     header {
-    background-color: #100069;
+    background-color: rgb(115, 65, 114);
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -73,7 +73,7 @@ header {
     }
     
     h2 {
-    color: #100069;
+    color: rgb(115, 65, 114);
     }
     
     form {
@@ -94,13 +94,13 @@ header {
     padding: 0.7em;
     border: none;
     border-radius: 4px;
-    background-color: #100069;
+    background-color: rgb(115, 65, 114);
     color: white;
     cursor: pointer;
     }
     
     button[type="submit"]:hover {
-    background-color: #100069;
+    background-color: rgb(115, 65, 114);
     }
     
     footer {

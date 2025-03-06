@@ -103,3 +103,16 @@ footer{
     align-content: center;
     align-items: center;
 }
+
+a:link {
+    color: #8b8b8b;
+  }
+  
+  a:hover {
+    color: #000000;
+  }
+  
+
+  a:active {
+    color: rgb(132, 0, 255);
+  }

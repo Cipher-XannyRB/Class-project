@@ -67,7 +67,7 @@ header {
     
     .container {
     width: 80%;
-    margin: 2em auto;
+    margin-bottom: 2em auto;
     background-color: white;
     padding: 1em 2em;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
